@@ -11,6 +11,7 @@ As technology is also a hobbie, I have been maintaining my own servers and creat
 ![](https://img.shields.io/badge/WebServer-Apache-informational?style=flat&logo=apache&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/WebServer-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)

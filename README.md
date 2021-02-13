@@ -2,7 +2,9 @@
 
 My name is Bruno F. Fontes. I am a localization engineer/project manager from Rio de Janeiro, Brazil, that had the opportunity to start a new automation department and is working with that ever since.
 
-As technology is also a hobbie, I have been maintaining my own servers and creating a few tools in my spare time.
+This is one of my repositories, but I also use a self-hosted **[Gitea](https://gitea.brunofontes.net/brunofontes)** and a **BitBucket** for my private repositories. 
+
+As technology is also a hobbie, I have been maintaining my own servers (Email, gemini server, XMPP, NextCloud, MatterMost, Gitea etc) and creating a few tools in my spare time.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=php&logoColor=white&color=blue)

@@ -16,7 +16,6 @@ As technology is also a hobbie, I have been maintaining my own servers (Email, g
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
 
 [![Linkedin Badge](https://img.shields.io/badge/-brunofontes-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunofontes/)](https://www.linkedin.com/in/brunofontes/) [![Github Badge](https://img.shields.io/badge/-brunofontes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/brunofontes/)](https://www.github.com/brunofontes/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dicionarios.cc/)](https://dicionarios.cc/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://projetomovase.com/)](https://projetomovase.com/)
 
